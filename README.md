@@ -134,6 +134,7 @@ Low Budget & High Reliability: Uses affordable, solid-state sensors requiring ve
 CONCLUSION:
 
 ![][image4]
+![image4](RESULT.jpeg)
 
 The proposed system delivers a targeted safety and transit management solution for college bus fleets. By pairing an IR entrance counter with an ultrasonic exit counter, the system automates student transit tracking. Combined with continuous MQ smoke detection and an instantaneous driver alarm, it provides proactive fire prevention, improving student safety and transit accountability across institutional campus transport operations.
 
