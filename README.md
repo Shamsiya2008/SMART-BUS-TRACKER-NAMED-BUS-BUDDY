@@ -97,6 +97,7 @@ Buzzer (Alarm): Positive (+) \-\> Pin D8, Negative (-) \-\> GND
 
      CIRCUIT DIAGRAM  
 ![][image2]
+![image2](CIRCUITDIAGRAM.jpeg)
 
 SCHEMATIC DIAGRAM  
 ![][image3]
