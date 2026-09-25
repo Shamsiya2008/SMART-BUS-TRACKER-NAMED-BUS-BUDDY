@@ -43,6 +43,7 @@ To sound an immediate emergency buzzer alarm to ensure swift vehicle evacuation 
 Components
 
 ![][image1]
+![image1](COMPONENTS.jpeg)
 
 #### 4\. HARDWARE SPECIFICATIONS
 
