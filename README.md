@@ -101,7 +101,7 @@ Buzzer (Alarm): Positive (+) \-\> Pin D8, Negative (-) \-\> GND
 
 SCHEMATIC DIAGRAM  
 ![][image3]
-
+![image3](SCHEMATICDIAGRAM.jpeg)
 ##### WORKING PRINCIPLE IN COLLEGE BUS OPERATIONS:
 
 1)Morning Boarding (Ingress Detection):
